@@ -6,12 +6,12 @@ no one needs it, no one asked for it, I just thought it'd be fun to do it :v
 
 ## Arithmetic
 
-- [*] add (+)
+- [x] add (+)
 - [ ] sub (-)
 - [ ] mul (*)
 - [ ] div (/)
 - [ ] mod (%)
-- [*] inc (inc)
+- [x] inc (inc)
 
 ## Logical
 
@@ -21,7 +21,7 @@ no one needs it, no one asked for it, I just thought it'd be fun to do it :v
 
 ## Not yet categorized
 
-- [*] swap (swap)
-- [*] clone (clone)
-- [*] print (print)
-- [*] if block
+- [x] swap (swap)
+- [x] clone (clone)
+- [x] print (print)
+- [x] if block
